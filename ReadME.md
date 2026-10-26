@@ -1,4 +1,4 @@
-#Project Description
+Project Description
 The University of the Free State (UFS) has commissioned the development of an innovative recruitment and student profile platform to enhance graduate employability and streamline employer engagement. The system will function as a bridge between academic achievement and career placement, integrating with existing UFS databases to provide real-time updates on student information.
 The platform will be available as both a mobile application and a web-based application, ensuring accessibility across devices. Students will be able to create professional profiles, showcase skills, and apply for opportunities directly, while employers can search for suitable candidates and manage recruitment activities efficiently.
 This project supports UFS's strategic goal of preparing students for the workplace and providing companies with a reliable source of qualified entry-level talent. Future system extensions may include alumni tracking, career path recommendations, and advanced AI-driven features, ensuring the platform remains scalable and adaptable.
